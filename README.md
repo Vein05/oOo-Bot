@@ -5,17 +5,17 @@ Feel free to add a star ⭐ to the repository to promote the project!
 
 #### Table of contents
 
-• Features
+• [Features](https://github.com/Obscure-Git/oOo-Bot#features)
 
-• Installation
+• [Installation](https://github.com/Obscure-Git/oOo-Bot#installation)
 
-• Links
+• [Links](https://github.com/Obscure-Git/oOo-Bot#links)
 
-• License
+• [License](https://github.com/Obscure-Git/oOo-Bot#license)
 
-• Contribution
+• [Contribution](https://github.com/Obscure-Git/oOo-Bot#contribution)
 
-• Special Thanks
+• [Special Thanks](https://github.com/Obscure-Git/oOo-Bot#special-thanks)
 
 # Features
 
