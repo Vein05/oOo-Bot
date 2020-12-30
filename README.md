@@ -1,4 +1,5 @@
-# <img src="./assets/logo.png" style="zoom:25%;" > oOo bot
+# <img src="./assets/logo.png" style="zoom:20%;" > 
+oOo bot
 
 oOo is an open source Discord bot coded in [discord.py](https://discordpy.readthedocs.io/en/latest/) by [Obscure.](https://github.com/Obscure-Git)
 Feel free to add a star ⭐ to the repository to promote the project!
@@ -6,12 +7,12 @@ Feel free to add a star ⭐ to the repository to promote the project!
 #### Table of contents
 
 • Features
-		List 
-		Commands
+	List 
+	Commands
 
 • Installation
-		Non Customized
-		Customized
+	Non Customized
+	Customized
 
 • Links
 
@@ -84,6 +85,7 @@ git clone https://github.com/Obscure-Git/oOo-Bot.git
 ```
 
 Downloading as a zip file:
+
 <img src="./assets/download-as-zip.png">
 
 #### Modifying the env file
