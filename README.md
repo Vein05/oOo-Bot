@@ -18,8 +18,7 @@ Feel free to add a star ⭐ to the repository to promote the project!
 • [Special Thanks](https://github.com/Obscure-Git/oOo-Bot#special-thanks)
 
 # Features
-
-oOo bot is updated weekly and is maintained actively. In addition we are also adding new features to the bot in a weekly manner. Default prefix: `+`
+oOo bot is updated and mainainted on a weekly basis. In addition to that we are also adding new and exiciting features to the bot in a weekly manner. Default prefix: `+`
 
 ### List
 
@@ -27,7 +26,7 @@ oOo currently offers:
 
 • ✉️ Active Support regarding the bot in our [support server](https://discord.gg/s2khsve).
 
-• ⚙️ Guild Configuration (custom prefixes)
+• ⚙️ Guild Configuration (custom prefixes).
 
 • 😀 Commands made pleasant with use of embeds and minimal colors and relative emojis.
 
@@ -55,7 +54,7 @@ oOo has many commands and they are maintained properly.
 
 ### Non Customized version
 
-If you don't want to edit the code of the bot, a permanent 24/7 online version is available, which you can invite to your own Discord!
+If you don't want to edit the code of the bot, a permanent 24/7 online version is available, which you can invite to your own Discord server!
 
 [![Click here to invite](https://top.gg/api/widget/772818044933242880.svg)](https://top.gg/bot/772818044933242880)
 
@@ -63,7 +62,7 @@ If you don't want to edit the code of the bot, a permanent 24/7 online version i
 
 #### Requirements
 
-• [Python 3.6 or later](https://www.python.org/)
+• [Python 3.6 or later](https://www.python.org/downloads/)
 
 • [Tenor Gifs API key](https://tenor.com/gifapi/documentation#quickstart) [Used for commands like punch, slap, etc.] 
 
